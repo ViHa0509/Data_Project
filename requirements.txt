@@ -1,0 +1,7 @@
+pyodbc
+psycopg2-binary
+apache-airflow-providers-microsoft-mssql
+apache-airflow-providers-postgres
+apache-airflow-providers-apache-hdfs
+pandas
+sharepy
